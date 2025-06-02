@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "File Encryptor", "File Encryptor.vcxproj", "{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Debug|x64.ActiveCfg = Debug|x64
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Debug|x64.Build.0 = Debug|x64
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Debug|x86.Build.0 = Debug|Win32
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Release|x64.ActiveCfg = Release|x64
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Release|x64.Build.0 = Release|x64
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Release|x86.ActiveCfg = Release|Win32
+		{F5A8CE09-3AC4-4990-AF5B-64F61ACFCEAE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F634A994-2E2D-4D94-8719-C8C2C1B797F1}
+	EndGlobalSection
+EndGlobal
