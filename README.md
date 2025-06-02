@@ -1,9 +1,9 @@
 # File Encryptor
 - This is a rudimentary File Encryptor/Decryptor using a XOR based cipher.
 
-# Requirements
+### Requirements
 - MSVS
 - C++17
 
-# Usage
+### Usage
 -> <filePath> <lock/unlock> <filePath/lockedFilePath> <CustomHashKey>
